@@ -131,10 +131,16 @@
                       </h5>
                     </div>
                     <p class="lead">
-                      Je m'appelle Baptiste TABAR LABONNE, je suis âgé de 20 ans. Ayant obtenu mon Brevet de technicien supérieur et ma Licence Professionnelle, je poursuis mon évolution en tant qu'apprenti en Mastère Architecte Web au sein du Département du Val-de-Marne.
+                      Je m'appelle Baptiste TABAR LABONNE, je suis âgé de 20ans. Ayant obtenu mon BTS en Services
+                      Informatiques aux Organisations, spécialité Solutions Logicielles et Applications Métier. Je suis
+                      maintenant étudiant à l'IUT d'Evry Val d'Essonne , en Licence Professionnelle Métiers de
+                      l’informatique : applications web, en alternance.
                     </p>
                     <p class="lead">
-                      Depuis toujours passionné par l'informatique et les nouvelles technologies, je me suis orienté vers le développement web et logiciel, avec une appétence particulière pour la conception d'interfaces et la résolution de problématiques techniques. Mon objectif est de concevoir des solutions performantes, maintenables et adaptées aux besoins réels des utilisateurs.
+                      Depuis mes jeunes années, j'ai toujours été attiré par l'informatique et les nouvelles
+                      technologies. C'est tout naturellement que je me suis tourné vers ces études, en effectuant mes
+                      deux dernières années de lycée en BAC Technologique "Système Technologie de l'Industrie et du
+                      Développement Durable", et mes premières années d'étude en BTS SIO
                     </p>
                   </div>
                   <br>
@@ -168,12 +174,13 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-window-desktop"></i></span>
+                <span class="ico-circle"><i class="bi bi-code-slash"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Frontend</h2>
+                <h2 class="s-title">Design Web</h2>
                 <p class="s-description text-center">
-                  Création d'interfaces web modernes, dynamiques et ergonomiques grâce à Angular, ExtJS, HTML et CSS. Soucieux de l'expérience utilisateur, je mets un point d'honneur à concevoir des applications réactives, accessibles et bien structurées.
+                  J'ai des compétences en CSS suite à ma formation en classe de SIO, la réalisation de quelques projets
+                  personnels
                 </p>
               </div>
             </div>
@@ -181,12 +188,13 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-server"></i></span>
+                <span class="ico-circle"><i class="bi bi-braces"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Backend</h2>
+                <h2 class="s-title">Dévelopment Web </h2>
                 <p class="s-description text-center">
-                  Solide maîtrise de PHP et du framework Symfony pour concevoir des applications robustes côté serveur. À l'aise avec l'architecture MVC, ainsi que la sécurisation des échanges de données entre client et serveur.
+                  J'ai des compétences dans des langages de programation dur, mais également des FrameWork tels que
+                  Symfony et TypeScript
                 </p>
               </div>
             </div>
@@ -194,51 +202,13 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-phone"></i></span>
+                <span class="ico-circle"><i class="bi bi-eye"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Développement Mobile</h2>
+                <h2 class="s-title">Conception visuelle</h2>
                 <p class="s-description text-center">
-                  Capacité à développer des applications mobiles multiplateformes avec Flutter et Dart. Sens du détail pour produire des interfaces fluides et performantes.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-database"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Base de données &amp; SQL</h2>
-                <p class="s-description text-center">
-                  Compréhension de SQL et des bases de données relationnelles (MySQL). Compétent dans la conception de schémas de données, l'optimisation des requêtes, et la gestion des relations complexes.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-tools"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Environnement de développement</h2>
-                <p class="s-description text-center">
-                  Maîtrise d'outils de développement essentiels comme WAMP, Git, PhpMyAdmin, ainsi que des outils de débogage et de versionnage. Habitué à travailler dans un environnement structuré, en lien avec des projets en production.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-arrow-repeat"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Maintenance &amp; Migration d'applications</h2>
-                <p class="s-description text-center">
-                  Expérience confirmée dans la migration d'applications legacy (notamment de PHP 5 à PHP 8+), avec une capacité à analyser du code existant, corriger des bugs critiques, moderniser les pratiques et assurer la compatibilité avec les technologies actuelles.
+                  J'ai beaucoup utilisé Canva pour plusieurs projets personels. Mais aussi des applications Adobe tels
+                  que Litghtroom et PhotoShop Express
                 </p>
               </div>
             </div>
